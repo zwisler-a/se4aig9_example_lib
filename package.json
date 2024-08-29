@@ -1,0 +1,16 @@
+{
+  "name": "se4aig9_lib",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "homepage": "https://github.com/zwisler-a/se4aig9_example_lib",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zwisler-a/se4aig9_example_lib.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "se4aig9",
+  "license": "ISC",
+  "description": ""
+}
