@@ -1,8 +1,9 @@
 {
   "name": "se4aig9_lib",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "main": "src/index.js",
-  "homepage": "https://github.com/zwisler-a/se4aig9_example_lib",
+  "homepage": "https://zwisler.dev/se4ai.md",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git@github.com:zwisler-a/se4aig9_example_lib.git"
