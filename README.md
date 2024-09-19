@@ -1,3 +1,6 @@
+# Only used for demonstration
+> This is used as a demonstration for a [RAG](https://aws.amazon.com/what-is/retrieval-augmented-generation/#:~:text=Retrieval%2DAugmented%20Generation%20(RAG),sources%20before%20generating%20a%20response.) System which analyses documentation.
+
 # Utility Library
 
 This is a simple JavaScript utility library that provides common utility functions. The library includes functions for text manipulation, random number generation, object cloning, and function debouncing.
